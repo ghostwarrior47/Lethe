@@ -12,7 +12,7 @@
     "66237334693085184"
   ],
   "commandsRestrictedToAdmins": {
-    "init": true,
+    "init": false,
     "info": false,
     "help": false,
     "destroy": true,
@@ -20,12 +20,12 @@
     "list": false,
     "list saved": false,
     "link": false,
-    "next": true,
+    "next": false,
     "replay": false,
     "save": false,
     "time": false,
     "yq": false,
     "pl": false,
-    "shuffle": true
+    "shuffle": false
   }
 }
